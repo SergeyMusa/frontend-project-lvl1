@@ -1,0 +1,23 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "brain-games",
+  "main": "brain-games.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeyMusa/frontend-project-lvl1.git"
+  },
+  "keywords": [
+    "brain-games",
+    "games-mind"
+  ],
+  "author": "SergeyMuSa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeyMusa/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/SergeyMusa/frontend-project-lvl1#readme"
+}
