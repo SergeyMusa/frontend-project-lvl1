@@ -1,23 +1,23 @@
 {
-  "name": "@hexlet/code",
-  "version": "1.0.0",
-  "description": "brain-games",
-  "main": "brain-games.js",
+  "name": "brain-games",
+  "version": "1.0.1",
+  "description": "[![Actions Status](https://github.com/SergeyMusa/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/SergeyMusa/frontend-project-lvl1/actions)",
+  "main": "bin/brain-games.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SergeyMusa/frontend-project-lvl1.git"
   },
-  "keywords": [
-    "brain-games",
-    "games-mind"
-  ],
-  "author": "SergeyMuSa",
+  "author": "MuSa",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/SergeyMusa/frontend-project-lvl1/issues"
   },
-  "homepage": "https://github.com/SergeyMusa/frontend-project-lvl1#readme"
+  "homepage": "https://github.com/SergeyMusa/frontend-project-lvl1#readme",
+  "type": "module",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  }
 }
