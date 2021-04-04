@@ -1,0 +1,17 @@
+#Makefile
+install:  # установить зависимости
+	npm install
+	install-deps
+
+start: # тест запустить приложение
+	@echo "STATR"
+#	node 
+	index.js
+
+test:
+	npm test
+
+h:
+	npm publish
+
+.PHONY: test
